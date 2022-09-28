@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+header {
+background-color: black;
+padding: 1rem;
+text-align: center;
+}
+header ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+h1 li {
+  font-style: bold;
+
+}
+header img {
+  width: 100%;
+}
+h2 {
+  text-align:  center;
+}
+main {
+display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+  color: white;
+  padding: 2rem;
+}
+body {
+  background-color: white;}
+
+:root {
+  --color-green: #3e5641;
+  --color-orange: #a24936;
+  --color-blue: #83bca9;
+  --color-black: #282b28;
+  --color-white: #ffffff;
+}
+
+
+body {
+  display: grid;
+grid-template-columns: 1fr 4fr;
+  font-family: 'Open Sans', sans-serif;
+  color: var(--color-white);
+  height: 100vh;
+  background-color: #000080;
+}
+
+
+
+section {
+  padding: 1rem;
+  background-color: black;
+  
+}
+
+@media screen and (min-width: 60em){
+ section{
+ grid-template-columns: repeat(1,1fr);
+ grid-template-rows: repeat(1,1fr);
+}
+
+section li{
+line-height: 3;
+}
+@media screen and (min-width: 40em){
+ section li{
+ font-size: 1rem;
+}
+section img {
+  height: 28rem;
+  width: 100%;
+}
+
+Section.four  {
+  /* position on nested grid */
+  height: 24rem;
+  vertical-align: top;
+}
+

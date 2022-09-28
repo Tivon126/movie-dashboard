@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 1224" style="enable-background:new 0 0 792 1224;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#903B96;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st1{fill:#0C8C44;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{fill:#FDB91B;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st3{fill:#ED2024;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{fill:#2E6FB7;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'MyriadPro-Regular';}
+	.st7{font-size:23.0443px;}
+	.st8{font-size:21px;}
+</style>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<path class="st0" d="M238.37,562.15L63.93,473.27c34.16-67.05,99.18-106.89,174.43-106.89V562.15z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st1" d="M238.37,562.15L84.1,682.68c-47.93-61.34-55.51-140.05-20.16-209.41L238.37,562.15z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st2" d="M238.37,562.15l50.67,189.1c-78.12,20.93-155.15-4.84-204.94-68.57L238.37,562.15z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st3" d="M238.37,562.15h195.77c0,90.39-57.79,165.71-145.1,189.1L238.37,562.15z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="st4" d="M238.37,562.15V366.37c108.12,0,195.77,87.65,195.77,195.77l0,0H238.37z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+			</g>
+			<g>
+			</g>
+			<g>
+			</g>
+			<g>
+			</g>
+			<g>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 297.5508 489.7576)" class="st5 st6 st7">25%</text>
+	<text transform="matrix(1 0 0 1 303.6732 646.9005)" class="st5 st6 st7">20.9%</text>
+	<text transform="matrix(1 0 0 1 172.6986 673.8774)" class="st5 st6 st7">18.7%</text>
+	<text transform="matrix(1 0 0 1 89.2786 580.8619)" class="st5 st6 st7">18%</text>
+	<text transform="matrix(1 0 0 1 150.7005 466.3168)" class="st5 st6 st7">17.4%</text>
+</g>
+<rect x="528.21" y="432.04" class="st4" width="22" height="22"/>
+<rect x="528.21" y="489.28" class="st3" width="22" height="22"/>
+<rect x="528.21" y="556.24" class="st2" width="22" height="22"/>
+<rect x="528.21" y="620.22" class="st1" width="22" height="22"/>
+<rect x="528.21" y="685.98" class="st0" width="22" height="22"/>
+<text transform="matrix(1 0 0 1 590.6254 448.9926)" class="st5 st6 st8">Comedy</text>
+<text transform="matrix(1 0 0 1 594.1215 508.6008)" class="st5 st6 st8">Fantasy</text>
+<text transform="matrix(1 0 0 1 586.2465 571.5094)" class="st5 st6 st8">Romance</text>
+<text transform="matrix(1 0 0 1 561.9706 639.9094)" class="st5 st6 st8">Science Fiction</text>
+<text transform="matrix(1 0 0 1 598.5839 707.5864)" class="st5 st6 st8">Action</text>
+</svg>
